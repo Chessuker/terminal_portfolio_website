@@ -1,0 +1,5 @@
+<span style="font-weight: 800;">Facebook</span>	:	ธวัฒน์ บุญสุข
+<span style="font-weight: 800;">Instagram</span> 	:	inthenameoflapo
+<span style="font-weight: 800;">Personal Mail</span> 	:	thawatopal@gmail.com
+<span style="font-weight: 800;">University Mail</span> :	thawat.boon@mail.kmutt.ac.th
+<span style="font-weight: 800;">Phone</span> 		:	0639465678 	<span style="color : red; font-weight: 800;">(If it's not urgent, please avoid calling.)</span>

@@ -1,0 +1,4 @@
+<span style="font-weight: 800;">Kindergarten</span>            :   Thepprasit Vidhaya School - Chachoengsao
+<span style="font-weight: 800;">Primary School</span>          :   Wat Pitulathirat Rangsarit School
+<span style="font-weight: 800;">Secondary School</span>        :   Benchamaracharungsarit School
+<span style="font-weight: 800;">University (Current)</span>    :   King Mongkut’s University of Technology Thonburi
